@@ -1,30 +1,38 @@
 # 🏦 Bank Loan Analysis Dashboard
 
 ## 📌 Project Overview
-
-This project is an interactive Power BI dashboard built to analyze bank loan data and monitor loan performance, customer behavior, and lending trends.
-
-The dashboard provides insights into total loan applications, funded amount, amount received, loan status, interest rate, and customer demographics.
+This project is an interactive Bank Loan Analysis Dashboard built using Microsoft Power BI. It provides insights into loan applications, funded amount, repayments, customer profiles, loan status, and overall business performance.
 
 ---
 
 ## 📊 Dashboard Preview
 
-![Dashboard]BANK LONE DASHBOARD.png
+![Dashboard](BANK%20LONE%20DASHBOARD.png)
 
 ---
 
 ## 🎯 Objectives
 
-- Analyze loan applications
-- Track funded and received amounts
-- Monitor loan status
-- Understand customer demographics
-- Identify lending trends
+- Analyze loan applications and approvals.
+- Monitor funded amount and repayments.
+- Identify good vs bad loans.
+- Analyze customer demographics.
+- Track monthly loan trends.
+- Understand loan purpose and home ownership patterns.
 
 ---
 
-## 📈 KPIs
+## 🛠️ Tools & Technologies
+
+- Microsoft Power BI
+- Microsoft Excel
+- Power Query
+- DAX
+- Data Modeling
+
+---
+
+## 📈 Key KPIs
 
 - Total Loan Applications
 - Total Funded Amount
@@ -36,38 +44,35 @@ The dashboard provides insights into total loan applications, funded amount, amo
 
 ---
 
-## 📊 Dashboard Features
+## 📂 Files Included
 
-- Loan Status Analysis
-- Monthly Loan Trend
-- State-wise Loan Distribution
-- Loan Purpose Analysis
-- Home Ownership Analysis
-- Employee Length Analysis
-- Term Analysis
+- BL DS.pbix
+- Raw_Data_Banking.xlsx
+- BANK LONE DASHBOARD.png
+- README.md
 
 ---
 
-## 🛠 Tools Used
+## 🚀 Skills Demonstrated
 
+- Data Cleaning
+- Data Transformation
+- Data Visualization
+- Dashboard Design
+- KPI Development
+- Business Intelligence
 - Power BI
-- Power Query
 - DAX
 - Excel
 
 ---
 
-## 📂 Files Included
-
-- Dashboard.png
-- Bank_Loan_Analysis.pbix
-- bank_loan_data.csv
-
----
-
 ## 👩‍💻 Created By
 
-Sayali Kasab
+**Sayali Kasab**
 
-GitHub:
-https://github.com/Sayalikasab
+Aspiring Data Analyst
+
+LinkedIn: https://www.linkedin.com/in/sayali-kasab/
+
+GitHub: https://github.com/Sayalikasab
