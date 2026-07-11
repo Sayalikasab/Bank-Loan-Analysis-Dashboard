@@ -10,7 +10,7 @@ The dashboard provides insights into total loan applications, funded amount, amo
 
 ## 📊 Dashboard Preview
 
-![Dashboard](BANK LONE DASHBOARD.png)
+![Dashboard]BANK LONE DASHBOARD.png
 
 ---
 
